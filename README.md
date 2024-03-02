@@ -5,3 +5,5 @@ Simple Javascript  projects.
 2. bmi checking
 3. digital clock
 4. guessing number
+5. Keyboard key tracking
+6. colorchange
