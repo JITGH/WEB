@@ -6,4 +6,4 @@ Simple Javascript  projects.
 3. digital clock
 4. guessing number
 5. Keyboard key tracking
-6. colorchange
+6. color change of page
